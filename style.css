@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    
+    font-family: 'Bebas Neue', cursive;
+   
+   
+
+}
+
+
+.conteinar{
+    background-color: aqua;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 0cm;
+}
+.menu a{
+    
+    text-decoration: none;
+    padding: 0 12px;
+    color:lightcoral;
+    font-size: large;
+}
+.menu{
+    float: right;
+
+}
+
+.name{
+    color: blueviolet;
+    margin: 0 0 0 44px;
+}
+    
+.main{
+    padding: 98px 0 0 13px ;
+    text-shadow: peru;
+}
+.name-style{
+    font-size: 30px;
+    color:rgb(221, 41, 17);
+}
+
+.r-style{
+    font-size:40px initial;
+    color:rgb(255, 122, 222);
+    
+}
+
+button{
+    padding:3px 10px ;
+    background-color: blueviolet;
+    color: aliceblue;
+    border: 2px solid lightgreen;
+    border-radius:7px;
+    cursor: pointer;
+}
+
+.contact-img{
+    height: 320px;
+    width: 320px;
+    margin:100px 0px 0px 380px;
+    border: 40px 40px;
+    
+}
+section{
+    display: flex;
+}
