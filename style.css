@@ -69,3 +69,49 @@ button{
 section{
     display: flex;
 }
+.box-cad{
+ padding:60px;
+ margin-top: 100px;
+}
+.stack-dev{
+    
+    width:50%;
+    box-shadow: 6px 6px 5px 5px;
+    margin:10px 0px 0px 20px;
+    padding: 80px;
+    border-left: 4px solid lightsalmon;
+    }
+.web-dev{
+    width:50%;
+    box-shadow: 6px 6px 5px 5px;
+    margin:10px 0px 0px 20px;
+    padding: 80px;
+   border-left: 4px solid navy;
+}
+
+.bottom-style{
+    background-color: black;
+    background-position: 1000%;
+    text-align: center;
+    padding: 8px;
+}
+.bottom-style a,p{
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.bottom-style p:hover{
+    color: antiquewhite;
+    
+}
+.bottom-style a:hover{
+    color: antiquewhite;
+    text-decoration: underline;
+    width: 100%;
+}
+footer{
+    padding-top:50px;
+    margin: 0 auto;
+    padding-bottom: 0px;
+}
